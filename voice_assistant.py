@@ -6,8 +6,7 @@ import os
 import openai
 
 # API Key (Replace with your actual key)
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = "Your_Key"
 # Initialize OpenAI
 openai.api_key = OPENAI_API_KEY
 
